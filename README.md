@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-rmilani-red.svg)](https://www.linkedin.com/in/rita-de-cassia-m-59ab7451/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
 
 <p align="center">
-  <img src="https://media.istockphoto.com/photos/fraud-alert-concept-with-security-lock-on-fake-credit-cards-picture-id1307675090?s=612x612" alt="imagem maneira relacionada ao projeto"height=200px >
+  <img src="https://media.istockphoto.com/photos/fraud-alert-concept-with-security-lock-on-fake-credit-cards-picture-id1307675090?b=1&k=20&m=1307675090&s=170667a&w=0&h=MR5AOIu9QvWVTEIRKPBQv-zoVKKN0LD_O5A3pwiDvBw="height=200px >
 </p>
 
 
