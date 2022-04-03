@@ -4,6 +4,7 @@
   <img src="https://media.istockphoto.com/photos/fraud-alert-concept-with-security-lock-on-fake-credit-cards-picture-id1307675090?s=612x612" alt="imagem maneira relacionada ao projeto"height=200px >
 </p>
 
+
 ## Credit Card Fraud Detection
 Fraudulent credit card transactions are an increasing worry of financial institutions, and Brazil accounts for 45% of the global rate. Thus, the use of IA through Machine Learning Algorithms to increase the efficacy of fraud detections is an important tool not only for financial institutions, but also for e-commerce companies and online businesses. Using a credit card dataset made available by EU financial institutions as an example, we aimed at this project to find out models with an improved capacity of fraud detection, working with Logistic Regression and Decision Tree.
 
