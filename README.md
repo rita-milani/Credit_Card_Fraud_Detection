@@ -13,4 +13,5 @@ Fraudulent credit card transactions are an increasing worry of financial institu
 **Related links and articles:**
 * [LinkedIn](https://www.linkedin.com/in/rita-de-cassia-m-59ab7451/)
 * [Portfolio](https://github.com/rita-milani)
+* [LinkedIn Credit Card Fraud Detection](https://www.linkedin.com/pulse/credit-card-fraud-detection-rita-de-cassia-milani/?trackingId=qJ0KPz%2F7RGBLIE4YvDdk6g%3D%3D)
 * [Understanding: Box Plot, a Statistical Portrait](https://medium.com/@rita.milani/understanding-box-plot-a-statistical-portrait-2181fdf01842)
